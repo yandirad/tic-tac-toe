@@ -1,6 +1,7 @@
 {
   "name": "react-00",
   "private": true,
+  "homepage": "https://yandirad.github.io/tic-tac-toe",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
